@@ -1,0 +1,27 @@
+{
+  "name": "Bmb-Img",
+  "version": "1.0.0",
+  "description": "Scrape and download images from Google Images easily",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "google-images",
+    "image-scraper",
+    "scraper",
+    "images",
+    "download-images"
+  ],
+  "author": "BMB-TECH",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^21.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/novaxmd/Bmb-Img"
+  }
+}
